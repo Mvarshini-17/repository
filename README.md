@@ -9,4 +9,12 @@
 **italic type of font**
 
 ***italic type of font***
+
 ~~this is a strike through statement~~
+
+* fruits
+  *apple
+  *grape
+  *orange
+     
+1.vegetables
