@@ -9,4 +9,4 @@
 **italic type of font**
 
 ***italic type of font***
-~~this is a strike through statement
+~~this is a strike through statement~~
